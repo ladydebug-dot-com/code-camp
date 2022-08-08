@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer 1>
+   <First name>Jesus</First name>
+   <Second name>Christ</Second name>
+</Customer 1>
+<Customer 2>
+   <First name>Mary</First name>
+   <Second name>Magdalene</Second name>
+</Customer 2>
+</xml>
