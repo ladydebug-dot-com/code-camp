@@ -2,8 +2,10 @@ This example simulates IsDebuggerPresent Win32 API for Mac OSX
 
 Usage:
 
-% ./is-debugger-present-osx 
+% ./is-debugger-present-osx
+
 Process name: is-debugger-present-osx
+
 
 % lldb is-debugger-present-osx
 (lldb) target create "is-debugger-present-osx"
