@@ -1,2 +1,1 @@
-# code-camp
-for myself and not only
+openssl BIO R/W examples: plain text, base64, encrypted
